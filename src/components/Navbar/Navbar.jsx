@@ -45,8 +45,8 @@ const Navbar = () => {
           {/* Logo section */}
           <Link to="/" className="flex items-center gap-3">
             <img src={Logo} alt="" className="w-10" />
-            <span className="text-2xl sm:text-xl font-semibold">
-              Enhanced Technologies
+            <span className="text-xl sm:text-2xl font-semibold">
+              Enhanced Technologies 
             </span>
           </Link>
 

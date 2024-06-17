@@ -14,7 +14,7 @@ const ResponsiveMenu = ({ showMenu , toggleMenu}) => {
     >
       <Link to="/" className="flex items-center gap-3">
         <img src={Logo} alt="" className="w-10" />
-        <span className="text-xl sm:text-lg font-semibold ">Enhanced Tech</span>
+        <span className="text-base sm:text-xl font-semibold ">Enhanced Technologies</span>
       </Link>
       <div className="ml-3 mt-[-18rem]">
         <nav className="">
